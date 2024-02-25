@@ -14,4 +14,4 @@ pysocks==1.7.1
 attrs==23.2.0
 charset-normalizer==2.1.1
 multidict==5.2.0
-pymongo[srv]==3.6
+pymongo[srv]
